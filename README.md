@@ -1,5 +1,3 @@
-**Project Readme**
-
 ### Dengue Data Analysis using Python
 
 #### Required Libraries
