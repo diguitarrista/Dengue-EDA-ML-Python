@@ -14,10 +14,5 @@ The analysis includes a comprehensive examination of the data, estimation of a P
 ## Conclusion
 The predictive modeling of dengue fever showcases the importance of understanding the data's underlying distribution and the potential issues such as overdispersion. Addressing these challenges is crucial for developing robust and reliable predictive models. This project lays the groundwork for future research that could explore more complex models or incorporate additional data sources to improve prediction accuracy.
 
-
-3. Use data from DataSus for analysis.
-
 #### Data Source
 Data for this project is obtained from DataSus.
-
-For more details on the project and code implementation, please refer to the project files and documentation.
